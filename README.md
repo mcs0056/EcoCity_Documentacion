@@ -61,3 +61,22 @@ El repositorio está organizado de la siguiente manera:
 - **Canva:** Presentación visual del proyecto.
 - **GitHub:** Control de versiones y alojamiento de documentación.
 - **Material Design 3:** Guía de estilos y componentes.
+
+---
+
+## Recursos Visuales e Imágenes
+
+En esta sección se muestran las capturas de pantalla del flujo principal, comparando el **Prototipo v1 (Sin Retoques)** frente al **Prototipo v2 (Con Retoques)** tras aplicar las mejoras de usabilidad.
+
+### Comparativa de Evolución (v1 vs v2)
+
+| Pantalla | Versión Original (v1) | Versión Mejorada (v2) |
+| :--- | :---: | :---: |
+| **Inicio de Sesión** | [Ver v1](Imagenes/SinRetoques/InicioSesion.png) | [Ver v2](Imagenes/ConRetoques/InicioSesionRetoque.png) |
+| **Menú de Incidencias** | [Ver v1](Imagenes/SinRetoques/IncidenciasMenu.png) | [Ver v2](Imagenes/ConRetoques/IncidenciasMenuRetoques.png) |
+| **Detalle Incidencia** | [Ver v1](Imagenes/SinRetoques/Incidencia.png) | [Ver v2](Imagenes/ConRetoques/IncidenciaRetoques.png) |
+| **Chat Multihilo** | [Ver v1](Imagenes/SinRetoques/ChatMultihilo.png) | [Ver v2](Imagenes/ConRetoques/ChatMultihiloRetoques.png) |
+| **Soporte Técnico** | [Ver v1](Imagenes/SinRetoques/SoporteTecnico.png) | [Ver v2](Imagenes/ConRetoques/SoporteTecnicoRetoques.png) |
+
+> [!TIP]
+> Puedes encontrar todos los recursos gráficos brutos y exportaciones en las carpetas correspondientes dentro del directorio `/Imagenes`.
