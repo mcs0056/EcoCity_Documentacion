@@ -70,19 +70,9 @@ A continuación se presentan las capturas de pantalla de la aplicación. En la c
 
 | Pantalla | Prototipo v1 (Original) | Prototipo v2 (Mejorado) |
 | :--- | :---: | :---: |
-| **Login** (Mejora: Visibilidad password) | ![v1]<img width="269" height="600" alt="Captura de pantalla 2026-02-10 085822" src="https://github.com/user-attachments/assets/41479762-fe0c-4bd7-ba2d-2fe7866d5a46" />
- | ![v2]<img width="277" height="622" alt="Captura de pantalla 2026-02-10 084909" src="https://github.com/user-attachments/assets/134ba415-77e1-4367-8343-721cd3066b04" />
- |
-| **Lista Incidencias** (Mejora: Filtros y búsqueda) | ![v1]<img width="574" height="601" alt="Captura de pantalla 2026-02-10 085834" src="https://github.com/user-attachments/assets/428714fd-8159-4f1e-b87c-fd76e415aca3" />
- | ![v2]<img width="585" height="618" alt="Captura de pantalla 2026-02-10 084919" src="https://github.com/user-attachments/assets/a86c7dbe-39fe-482c-889d-f5c4c8aa5315" />
-|
-| **Detalle** (Mejora: Control de estado) | ![v1]<img width="266" height="603" alt="Captura de pantalla 2026-02-10 085905" src="https://github.com/user-attachments/assets/ee320902-b3b4-4a20-a3de-5b078617b053" />
- | ![v2]<img width="276" height="620" alt="Captura de pantalla 2026-02-10 084932" src="https://github.com/user-attachments/assets/88167323-854c-46d2-8b32-08d5ca45b741" />
-|
-| **Chat** (Mejora: Botón de salida/atrás) | ![v1]<img width="274" height="606" alt="Captura de pantalla 2026-02-10 085930" src="https://github.com/user-attachments/assets/63af7d1a-f3df-4d3e-9394-151b5f13d74c" />
- | ![v2]<img width="277" height="616" alt="Captura de pantalla 2026-02-10 084956" src="https://github.com/user-attachments/assets/a000aee8-d26e-44bd-a8e0-b5b170b3702a" />
- |
-| **Soporte** (Mejora: Feedback visual) | ![v1]<img width="267" height="604" alt="Captura de pantalla 2026-02-10 085914" src="https://github.com/user-attachments/assets/2108e1cb-73e5-4fb1-b5f1-d9c5d223cbcd" />
- | ![v2]<img width="274" height="618" alt="Captura de pantalla 2026-02-10 084943" src="https://github.com/user-attachments/assets/102a19a0-e25e-4ed9-9f96-cea4262571ec" />
- |
+| **Login** (Visibilidad password) | <img width="260" alt="v1 Login" src="https://github.com/user-attachments/assets/41479762-fe0c-4bd7-ba2d-2fe7866d5a46" /> | <img width="260" alt="v2 Login" src="https://github.com/user-attachments/assets/134ba415-77e1-4367-8343-721cd3066b04" /> |
+| **Lista Incidencias** (Filtros/Búsqueda) | <img width="260" alt="v1 Lista" src="https://github.com/user-attachments/assets/428714fd-8159-4f1e-b87c-fd76e415aca3" /> | <img width="260" alt="v2 Lista" src="https://github.com/user-attachments/assets/a86c7dbe-39fe-482c-889d-f5c4c8aa5315" /> |
+| **Detalle** (Control de estado) | <img width="260" alt="v1 Detalle" src="https://github.com/user-attachments/assets/ee320902-b3b4-4a20-a3de-5b078617b053" /> | <img width="260" alt="v2 Detalle" src="https://github.com/user-attachments/assets/88167323-854c-46d2-8b32-08d5ca45b741" /> |
+| **Chat** (Botón salida/atrás) | <img width="260" alt="v1 Chat" src="https://github.com/user-attachments/assets/63af7d1a-f3df-4d3e-9394-151b5f13d74c" /> | <img width="260" alt="v2 Chat" src="https://github.com/user-attachments/assets/a000aee8-d26e-44bd-a8e0-b5b170b3702a" /> |
+| **Soporte** (Feedback visual) | <img width="260" alt="v1 Soporte" src="https://github.com/user-attachments/assets/2108e1cb-73e5-4fb1-b5f1-d9c5d223cbcd" /> | <img width="260" alt="v2 Soporte" src="https://github.com/user-attachments/assets/102a19a0-e25e-4ed9-9f96-cea4262571ec" /> |
 ---
