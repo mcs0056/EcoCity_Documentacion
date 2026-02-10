@@ -74,8 +74,11 @@ A continuación se presentan las capturas de pantalla de la aplicación. En la c
  | ![v2](Imagenes/ConRetoques/InicioSesionRetoque.png) |
 | **Menú Principal** (Filtros y búsqueda) | ![v1].<img width="585" height="618" alt="Captura de pantalla 2026-02-10 084919" src="https://github.com/user-attachments/assets/cd80ad91-b670-4c42-8d3c-2b67356aca90" />.
 | ![v2](Imagenes/ConRetoques/IncidenciasMenuRetoques.png) |
-| **Detalle Incidencia** (Control de estado) | ![v1](Imagenes/SinRetoques/Incidencia.png) | ![v2](Imagenes/ConRetoques/IncidenciaRetoques.png) |
-| **Chat** (Navegación y salida) | ![v1](Imagenes/SinRetoques/ChatMultihilo.png) | ![v2](Imagenes/ConRetoques/ChatMultihiloRetoques.png) |
-| **Soporte** (Ajustes visuales) | ![v1](Imagenes/SinRetoques/SoporteTecnico.png) | ![v2](Imagenes/ConRetoques/SoporteTecnicoRetoques.png) |
+| **Detalle Incidencia** (Control de estado) | ![v1]<img width="276" height="620" alt="Captura de pantalla 2026-02-10 084932" src="https://github.com/user-attachments/assets/394996b1-b5b7-4007-82dd-be059652cfd6" />
+ | ![v2](Imagenes/ConRetoques/IncidenciaRetoques.png) |
+| **Chat** (Navegación y salida) | ![v1]<img width="277" height="616" alt="Captura de pantalla 2026-02-10 084956" src="https://github.com/user-attachments/assets/094322df-44df-4fa4-ac1e-cdc7cc12568f" />
+ | ![v2](Imagenes/ConRetoques/ChatMultihiloRetoques.png) |
+| **Soporte** (Ajustes visuales) | ![v1]<img width="274" height="618" alt="Captura de pantalla 2026-02-10 084943" src="https://github.com/user-attachments/assets/c259b4db-9db9-463d-8727-da7ea0d467ad" />
+ | ![v2](Imagenes/ConRetoques/SoporteTecnicoRetoques.png) |
 
 ---
