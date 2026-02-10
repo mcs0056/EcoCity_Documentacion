@@ -14,7 +14,7 @@ Este proyecto ha sido desarrollado para el módulo de **Desarrollo de Interfaces
 
 ## Enlaces del Proyecto
 * **Prototipo en Figma:** [Acceder al Prototipo Interactuable](https://www.figma.com/proto/zEWyhfruel0aKNhgebbJvt/EcoCity?node-id=0-1&t=6MdDGFAevaeLi9t6-1)
-* **Presentación en Canva:** [Ver Presentación del Proyecto](TU_ENLACE_DE_CANVA_AQUI)
+* **Presentación en Canva:** [Ver Presentación del Proyecto](https://github.com/mcs0056/EcoCity_Documentacion/blob/main/Canva-EcoCity.pdf))
 
 ---
 
