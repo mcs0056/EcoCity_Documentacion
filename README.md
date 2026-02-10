@@ -70,8 +70,10 @@ A continuación se presentan las capturas de pantalla de la aplicación. En la c
 
 | Pantalla | Prototipo v1 (Original) | Prototipo v2 (Mejorado) |
 | :--- | :---: | :---: |
-| **Login** (Visibilidad password) | ![v1](Imagenes/SinRetoques/InicioSesion.png) | ![v2](Imagenes/ConRetoques/InicioSesionRetoque.png) |
-| **Menú Principal** (Filtros y búsqueda) | ![v1](Imagenes/SinRetoques/IncidenciasMenu.png) | ![v2](Imagenes/ConRetoques/IncidenciasMenuRetoques.png) |
+| **Login** (Visibilidad password) | ![v1].<img width="277" height="622" alt="Captura de pantalla 2026-02-10 084909" src="https://github.com/user-attachments/assets/4908de3f-9d9e-401e-91a6-6e8d83434d1b" />.
+ | ![v2](Imagenes/ConRetoques/InicioSesionRetoque.png) |
+| **Menú Principal** (Filtros y búsqueda) | ![v1].<img width="585" height="618" alt="Captura de pantalla 2026-02-10 084919" src="https://github.com/user-attachments/assets/cd80ad91-b670-4c42-8d3c-2b67356aca90" />.
+| ![v2](Imagenes/ConRetoques/IncidenciasMenuRetoques.png) |
 | **Detalle Incidencia** (Control de estado) | ![v1](Imagenes/SinRetoques/Incidencia.png) | ![v2](Imagenes/ConRetoques/IncidenciaRetoques.png) |
 | **Chat** (Navegación y salida) | ![v1](Imagenes/SinRetoques/ChatMultihilo.png) | ![v2](Imagenes/ConRetoques/ChatMultihiloRetoques.png) |
 | **Soporte** (Ajustes visuales) | ![v1](Imagenes/SinRetoques/SoporteTecnico.png) | ![v2](Imagenes/ConRetoques/SoporteTecnicoRetoques.png) |
