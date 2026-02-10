@@ -64,19 +64,16 @@ El repositorio está organizado de la siguiente manera:
 
 ---
 
-## Recursos Visuales e Imágenes
+## Galería de Capturas: Evolución del Diseño (v1 vs v2)
 
-En esta sección se muestran las capturas de pantalla del flujo principal, comparando el **Prototipo v1 (Sin Retoques)** frente al **Prototipo v2 (Con Retoques)** tras aplicar las mejoras de usabilidad.
+A continuación se presentan las capturas de pantalla de la aplicación. En la columna de la izquierda se muestra el diseño inicial (v1) y en la derecha el rediseño final (v2) con las mejoras de usabilidad aplicadas.
 
-### Comparativa de Evolución (v1 vs v2)
-
-| Pantalla | Versión Original (v1) | Versión Mejorada (v2) |
+| Pantalla | Prototipo v1 (Original) | Prototipo v2 (Mejorado) |
 | :--- | :---: | :---: |
-| **Inicio de Sesión** | [Ver v1](Imagenes/SinRetoques/InicioSesion.png) | [Ver v2](Imagenes/ConRetoques/InicioSesionRetoque.png) |
-| **Menú de Incidencias** | [Ver v1](Imagenes/SinRetoques/IncidenciasMenu.png) | [Ver v2](Imagenes/ConRetoques/IncidenciasMenuRetoques.png) |
-| **Detalle Incidencia** | [Ver v1](Imagenes/SinRetoques/Incidencia.png) | [Ver v2](Imagenes/ConRetoques/IncidenciaRetoques.png) |
-| **Chat Multihilo** | [Ver v1](Imagenes/SinRetoques/ChatMultihilo.png) | [Ver v2](Imagenes/ConRetoques/ChatMultihiloRetoques.png) |
-| **Soporte Técnico** | [Ver v1](Imagenes/SinRetoques/SoporteTecnico.png) | [Ver v2](Imagenes/ConRetoques/SoporteTecnicoRetoques.png) |
+| **Login** (Visibilidad password) | ![v1](Imagenes/SinRetoques/InicioSesion.png) | ![v2](Imagenes/ConRetoques/InicioSesionRetoque.png) |
+| **Menú Principal** (Filtros y búsqueda) | ![v1](Imagenes/SinRetoques/IncidenciasMenu.png) | ![v2](Imagenes/ConRetoques/IncidenciasMenuRetoques.png) |
+| **Detalle Incidencia** (Control de estado) | ![v1](Imagenes/SinRetoques/Incidencia.png) | ![v2](Imagenes/ConRetoques/IncidenciaRetoques.png) |
+| **Chat** (Navegación y salida) | ![v1](Imagenes/SinRetoques/ChatMultihilo.png) | ![v2](Imagenes/ConRetoques/ChatMultihiloRetoques.png) |
+| **Soporte** (Ajustes visuales) | ![v1](Imagenes/SinRetoques/SoporteTecnico.png) | ![v2](Imagenes/ConRetoques/SoporteTecnicoRetoques.png) |
 
-> [!TIP]
-> Puedes encontrar todos los recursos gráficos brutos y exportaciones en las carpetas correspondientes dentro del directorio `/Imagenes`.
+---
